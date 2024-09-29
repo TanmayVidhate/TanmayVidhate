@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vidhate</h1>
 <h3 align="center">A passionate frontend developer from India..</h3>
-<img align="right" alt="image gif" heigth="400" src="https://media.tenor.com/pDcT0vYOdckAAAAM/coding-3lines.gif">
+
+<img align="center" alt="image gif" heigth="400" src="https://media.tenor.com/pDcT0vYOdckAAAAM/coding-3lines.gif">
 
 - 🔭 I’m currently working on [JobLinker](https://joblinker-app.netlify.app)
 
